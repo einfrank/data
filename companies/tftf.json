@@ -1,0 +1,18 @@
+{
+    "slug": "tftf",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "tftf",
+    "address": "ftt",
+    "required-elements": [
+        {
+            "desc": "t",
+            "type": "textarea",
+            "optional": true
+        }
+    ],
+    "sources": [
+        "https://github.com/einfrank/data/pull/2"
+    ]
+}
