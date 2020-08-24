@@ -1,0 +1,12 @@
+{
+    "slug": "a",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "a",
+    "phone": "s",
+    "web": "http:/a",
+    "sources": [
+        "https://github.com/einfrank/data/pull/3"
+    ]
+}
