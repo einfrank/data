@@ -13,7 +13,7 @@
     "email": "privacy@123greetings-inc.com",
     "web": "%https://www.123greetings.com",
     "sources": [
-        "https://www.123greetings.com/privacy_policy.html",
+        "!https://www.123greetings.com/privacy_policy.html",
         "https://www.123greetings.com/terms_of_use.html",
         "https://github.com/datenanfragen/data/pull/1025"
     ],
