@@ -19,5 +19,6 @@
     ],
     "needs-id-document": "ja",
     "suggested-transport-medium": "email",
-    "quality": "tested"
+    "quality": "tested",
+    "nsfw": true
 }
