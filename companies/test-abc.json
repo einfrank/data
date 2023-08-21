@@ -1,12 +1,1 @@
-{
-    "slug": "test-abc",
-    "relevant-countries": [
-        "all"
-    ],
-    "name": "Test ABC",
-    "address": "Some Street 123\n12345 Berlin\nGermany",
-    "sources": [
-        "https://company-json.datenanfragen.de/"
-    ],
-    "quality": "verified"
-}
+{"slug":"test-abc","relevant-countries":["all"],"name":"Test ABC","address":"Some Street 123\n12345 Berlin\nGermany","phone":"+49 12343432333","sources":["https://company-json.datenanfragen.de/"],"quality":"verified"}
