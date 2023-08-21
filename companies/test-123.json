@@ -1,0 +1,12 @@
+{
+    "slug": "test123",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Test 123, Inc.",
+    "address": "Some Address 123\nSome City 12345\nSome Country",
+    "sources": [
+        "https://company-json.datenanfragen.de/"
+    ],
+    "quality": "verified"
+}
