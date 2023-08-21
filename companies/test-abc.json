@@ -1,0 +1,12 @@
+{
+    "slug": "test-abc",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "Test ABC",
+    "address": "Some Street 123\n12345 Berlin\nGermany",
+    "sources": [
+        "https://company-json.datenanfragen.de/"
+    ],
+    "quality": "verified"
+}
