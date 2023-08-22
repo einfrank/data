@@ -1,10 +1,10 @@
 {
-    "slug": "test-abc-2",
+    "slug": "test-abc",
     "relevant-countries": [
         "all"
     ],
-    "name": "Test ABC2",
-    "address": "Some Street 1234\n12345 Berlin\nGermany",
+    "name": "Test ABC",
+    "address": "Some Street 123\n12345 Berlin\nGermany",
     "phone": "+49 123 43432333",
     "fax": "+49 40 232332323",
     "sources": [
