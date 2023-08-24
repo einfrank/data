@@ -1,7 +1,10 @@
 {
-    "slug": "test-123-inc",
+    "slug": "test-123",
     "relevant-countries": [
         "all"
+    ],
+    "categories": [
+        "commerce"
     ],
     "name": "Test 123, Inc.",
     "address": "Some Address 1234\nSome City 12345\nUnited States of America",

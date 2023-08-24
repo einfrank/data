@@ -4,7 +4,7 @@
         "nl"
     ],
     "name": "test345",
-    "address": "test2\nThe Netherlands",
+    "address": "test\nThe Netherlands",
     "sources": [
         "http://localhost:1234/review/14"
     ],
