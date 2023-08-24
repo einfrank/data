@@ -5,7 +5,7 @@
     ],
     "name": "Test ABC",
     "address": "Some Street 123\n12345 Berlin\nGermany",
-    "phone": "+49 123 111111111",
+    "phone": "+49 123 11111111",
     "fax": "+49 40 22222222",
     "sources": [
         "https://company-json.datenanfragen.de/"
