@@ -1,9 +1,9 @@
 {
-    "slug": "test345",
+    "slug": "test3456",
     "relevant-countries": [
         "nl"
     ],
-    "name": "test345",
+    "name": "test3456",
     "address": "test\nThe Netherlands",
     "sources": [
         "http://localhost:1234/review/14"
