@@ -5,6 +5,9 @@
     ],
     "name": "tftf",
     "address": "ftt",
+    "sources": [
+        "https://github.com/einfrank/data/pull/2"
+    ],
     "required-elements": [
         {
             "desc": "t",
@@ -12,7 +15,5 @@
             "optional": true
         }
     ],
-    "sources": [
-        "https://github.com/einfrank/data/pull/2"
-    ]
+    "quality": "verified"
 }
