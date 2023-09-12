@@ -4,11 +4,12 @@
         "all"
     ],
     "categories": [
-        null
+        "church"
     ],
     "name": "sdfsdf",
-    "quality": "verified",
+    "address": "Abc\nGermany",
     "sources": [
         "https://github.com/einfrank/data/pull/5"
-    ]
+    ],
+    "quality": "verified"
 }
