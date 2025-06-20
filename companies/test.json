@@ -1,0 +1,13 @@
+{
+    "slug": "test",
+    "relevant-countries": [
+        "at"
+    ],
+    "name": "test",
+    "address": "abc\nDenmark",
+    "sources": [
+        "http://localhost:1234/#/create-pr",
+        "http://localhost:1234/#/create-pr2"
+    ],
+    "quality": "verified"
+}
