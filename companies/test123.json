@@ -1,0 +1,12 @@
+{
+    "slug": "test123",
+    "relevant-countries": [
+        "lt"
+    ],
+    "name": "test123",
+    "address": "test\nGermany",
+    "sources": [
+        "https://stiftungdatenschutz.org/veranstaltungen/unsere-veranstaltungen-detailansicht/datenschutzdiskurs-dsgvo-reform-oder-refoermchen-577"
+    ],
+    "quality": "verified"
+}
