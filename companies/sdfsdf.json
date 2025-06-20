@@ -1,0 +1,15 @@
+{
+    "slug": "sdfsdf",
+    "relevant-countries": [
+        "all"
+    ],
+    "categories": [
+        "church"
+    ],
+    "name": "sdfsdf",
+    "address": "Abc\nGermany",
+    "sources": [
+        "https://github.com/einfrank/data/pull/5"
+    ],
+    "quality": "verified"
+}
