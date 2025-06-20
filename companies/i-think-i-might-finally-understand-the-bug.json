@@ -1,0 +1,13 @@
+{
+    "slug": "i-think-i-might-finally-understand-the-bug",
+    "relevant-countries": [
+        "be"
+    ],
+    "name": "i think i might finally understand the bug!",
+    "sources": [
+        "http://localhost:1234/#/create-pr"
+    ],
+    "request-language": "de",
+    "quality": "verified",
+    "address": "my address\nAustria"
+}
