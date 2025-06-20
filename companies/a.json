@@ -1,0 +1,13 @@
+{
+    "slug": "a",
+    "relevant-countries": [
+        "bg",
+        "ie"
+    ],
+    "name": "test123",
+    "address": "abc\nGermany",
+    "sources": [
+        "https://example.org"
+    ],
+    "quality": "verified"
+}
