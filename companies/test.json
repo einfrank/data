@@ -1,0 +1,14 @@
+{
+    "slug": "test",
+    "relevant-countries": [
+        "at",
+        "bg"
+    ],
+    "name": "test",
+    "address": "abcd\nDenmark",
+    "sources": [
+        "http://localhost:1234/#/create-pr",
+        "http://localhost:1234/#/create-pr2"
+    ],
+    "quality": "verified"
+}
