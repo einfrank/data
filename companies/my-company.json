@@ -1,0 +1,12 @@
+{
+    "slug": "my-company",
+    "relevant-countries": [
+        "bg"
+    ],
+    "name": "my company Corp.",
+    "address": "Addressssssss\nFinland",
+    "sources": [
+        "http://localhost:1234/#/create-pr"
+    ],
+    "quality": "verified"
+}
