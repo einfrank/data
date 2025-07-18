@@ -1,0 +1,19 @@
+{
+    "slug": "tftf",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "tftf!?",
+    "address": "ftt\nGermany",
+    "sources": [
+        "https://github.com/einfrank/data/pull/2"
+    ],
+    "required-elements": [
+        {
+            "desc": "t",
+            "type": "name",
+            "optional": true
+        }
+    ],
+    "quality": "verified"
+}
