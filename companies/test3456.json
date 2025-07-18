@@ -1,0 +1,12 @@
+{
+    "slug": "test3456",
+    "relevant-countries": [
+        "nl"
+    ],
+    "name": "test3456",
+    "address": "test\nThe Netherlands",
+    "sources": [
+        "http://localhost:1234/review/14"
+    ],
+    "quality": "verified"
+}
