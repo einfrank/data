@@ -1,9 +1,10 @@
 {
-    "slug": "test",
+    "slug": "test2",
     "relevant-countries": [
-        "at"
+        "at",
+        "be"
     ],
-    "name": "test",
+    "name": "test2",
     "address": "sdsd\nGermany",
     "sources": [
         "http://localhost:1234/#/create-pr"
