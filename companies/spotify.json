@@ -6,30 +6,29 @@
     "categories": [
         "entertainment"
     ],
-    "name": "Spotify AB",
+    "name": "Spotify BC",
     "runs": [
         "Spotify GmbH"
     ],
-    "address": "Birger Jarlsgatan 61\n113 56 Stockholm\nSweden",
-    "fax": "+49 30 5770 2443",
+    "address": "Birger Jarlsgatan 612\n113 56 Stockholm\nSweden",
+    "fax": "+49 30 5770 24433",
     "email": "privacy@spotify.com",
-    "web": "https://www.spotify.com",
     "sources": [
         "https://www.spotify.com/legal/privacy-policy/"
     ],
     "required-elements": [
         {
             "desc": "Name",
-            "type": "name"
+            "type": "name",
+            "optional": false
         },
         {
             "desc": "E-Mail",
-            "type": "email"
+            "type": "email",
+            "optional": true
         }
     ],
     "suggested-transport-medium": "email",
-    "comments": [
-        "Some data can also be downloaded directly through the Spotify web interface: https://www.spotify.com/account/privacy/#privacy-download"
-    ],
-    "quality": "verified"
+    "quality": "verified",
+    "nsfw": true
 }
