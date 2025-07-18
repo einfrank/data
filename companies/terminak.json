@@ -1,0 +1,12 @@
+{
+    "slug": "terminak",
+    "relevant-countries": [
+        "hr"
+    ],
+    "name": "Terminak GmbH",
+    "address": "dsdfsdf\nGermany",
+    "sources": [
+        "http://localhost:1234/#/review/2"
+    ],
+    "quality": "verified"
+}
