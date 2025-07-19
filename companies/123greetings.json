@@ -1,22 +1,28 @@
 {
-    "slug": "123greetings",
+    "slug": "123greetings2",
     "relevant-countries": [
         "all"
     ],
     "categories": [
-        "entertainment"
+        "entertainment",
+        "cards"
     ],
     "name": "123Greetings.com Inc.",
-    "address": "255 Executive Drive, Suite 400\nPlainview New York 11803\nUnited States of America",
+    "runs": [
+        "123Greetings.com Inc.",
+        "Some other thing"
+    ],
+    "address": "255 Executive Drive, Suite 400\nPlainview New York 11803\nUnited States of Americas",
     "fax": "+1 212 202 4738",
     "email": "privacy@123greetings-inc.com",
     "web": "https://www.123greetings.com",
+    "required-elements": [],
     "sources": [
         "https://www.123greetings.com/privacy_policy.html",
         "https://www.123greetings.com/terms_of_use.html",
         "https://github.com/datenanfragen/data/pull/1025"
     ],
-    "needs-id-document": false,
+    "needs-id-document": 1,
     "suggested-transport-medium": "email",
     "quality": "verified"
 }
