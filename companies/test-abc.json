@@ -1,0 +1,14 @@
+{
+    "slug": "test-abc",
+    "relevant-countries": [
+        "at"
+    ],
+    "name": "Test ABC",
+    "address": "Some Street 123\n12345 Berlin\nGermany",
+    "phone": "+49 123 1111111",
+    "fax": "+49 40 22222222",
+    "sources": [
+        "https://company-json.datenanfragen.de/"
+    ],
+    "quality": "verified"
+}
