@@ -1,0 +1,11 @@
+{
+    "slug": "test-with-comment",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "test with comment",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/einfrank/data/pull/35"
+    ]
+}
