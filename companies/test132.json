@@ -1,0 +1,11 @@
+{
+    "slug": "test132",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "test132",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/einfrank/data/pull/33"
+    ]
+}
