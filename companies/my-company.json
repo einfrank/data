@@ -1,0 +1,11 @@
+{
+    "slug": "my-company",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "My company",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/einfrank/data/pull/39"
+    ]
+}
