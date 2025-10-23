@@ -1,0 +1,11 @@
+{
+    "slug": "test-with-comment-but-actually-now",
+    "relevant-countries": [
+        "all"
+    ],
+    "name": "test with comment, but actually now",
+    "quality": "verified",
+    "sources": [
+        "https://github.com/einfrank/data/pull/36"
+    ]
+}
